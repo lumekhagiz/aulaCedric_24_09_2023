@@ -1,0 +1,30 @@
+SUBSTANTIVOS
+
+Cidadão - CLASSE
+
+Cidade – CLASSE
+
+Bens – CLASSE
+
+Valor – ATRIBUTO
+
+Custo Mensal – ATRIBUTO
+
+Instância – ATRIBUTO
+
+Edifícios – ? ATRIBUTO
+
+Veículos – ? ATRIBUTO
+
+
+
+VERBOS
+
+É definido – x
+
+Saber o número de instâncias – método
+
+Conceber – x
+
+Representar – x
+
