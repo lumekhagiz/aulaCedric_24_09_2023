@@ -55,6 +55,9 @@ public class Asset{
 |  ter uma categoria <br> outra linha |     |
 |          ter um custo de manutenção |     |
 
+|| |
+|---|---|
+
 
 
 
